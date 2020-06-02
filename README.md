@@ -1,4 +1,4 @@
-# RecursiveLambda
+# Recursive Lambda
 1. Estudiante: Daniel Felipe Camargo Roa - 20172020078
 
 # Descripción
