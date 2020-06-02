@@ -1,5 +1,5 @@
 # Recursive Lambda
-1.Estudiante: Daniel Felipe Camargo Roa - 20172020078
+1. Estudiante: Daniel Felipe Camargo Roa - 20172020078
 
 # Descripción del problema
   Implementación de un programa en python, donde lambda pueda ser una función recursiva.
